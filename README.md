@@ -3,10 +3,10 @@
 
 
 <br/>
-***Objective:*** Using Historic Black Friday Sales Data I used
+***Objective:*** Build a Regression model trained on historic black friday sales data to predict future black friday sales.
 <br/>
 <br/>
-***Tools:*** PySpark, Plotlib, AWS EC2 Instance 
+***Tools:*** PySpark, Plotlib, AWS EC2 Instance. 
 <br/>
 <br/>
 ***Methodology:***  Cleaned data and fit a Random Forrest Regression model to predict future sales. Tuned parameters to improve Mean Squared Error by more of 10%.
